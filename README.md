@@ -1,3 +1,3 @@
 # CentralChampionship
 Java do sistema da CentralChampionship
-Az esteve aqui!
+Az esteve aqui...
